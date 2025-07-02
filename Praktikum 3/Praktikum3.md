@@ -1,4 +1,4 @@
-# Praktikum 2 - Nils Teipel
+# Praktikum 3 - Nils Teipel
 
 ## Aufgabe 3.1
 
